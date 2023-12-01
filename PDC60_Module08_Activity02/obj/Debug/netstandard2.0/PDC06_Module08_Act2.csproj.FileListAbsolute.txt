@@ -1,0 +1,17 @@
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\bin\Debug\netstandard2.0\PDC06_Module08_Act2.deps.json
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\bin\Debug\netstandard2.0\PDC06_Module08_Act2.dll
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\bin\Debug\netstandard2.0\ref\PDC06_Module08_Act2.dll
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\bin\Debug\netstandard2.0\PDC06_Module08_Act2.pdb
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\PDC06_Module08_Act2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\PDC06_Module08_Act2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\SearchPage.xaml.g.cs
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\PDC06_Module08_Act2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\PDC06_Module08_Act2.AssemblyInfo.cs
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\PDC06_Module08_Act2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\PDC06_Module08_Act2.dll
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\refint\PDC06_Module08_Act2.dll
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\PDC06_Module08_Act2.pdb
+C:\Users\User\Documents\BSIT4\PDC06_Module08_Act2\PDC06_Module08_Act2\obj\Debug\netstandard2.0\UpdatePage.xaml.g.cs

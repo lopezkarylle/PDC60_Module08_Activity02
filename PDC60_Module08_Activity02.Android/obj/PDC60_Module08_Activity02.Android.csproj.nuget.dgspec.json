@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/k4rylle/Downloads/PDC60_Module08_Activity02/PDC60_Module08_Activity02.Android/PDC60_Module08_Activity02.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/k4rylle/Downloads/PDC60_Module08_Activity02/PDC60_Module08_Activity02.Android/PDC60_Module08_Activity02.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/k4rylle/Downloads/PDC60_Module08_Activity02/PDC60_Module08_Activity02.Android/PDC60_Module08_Activity02.Android.csproj",
+        "projectName": "PDC06_Module08_Act2.Android",
+        "projectPath": "/Users/k4rylle/Downloads/PDC60_Module08_Activity02/PDC60_Module08_Activity02.Android/PDC60_Module08_Activity02.Android.csproj",
+        "packagesPath": "/Users/k4rylle/.nuget/packages/",
+        "outputPath": "/Users/k4rylle/Downloads/PDC60_Module08_Activity02/PDC60_Module08_Activity02.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/k4rylle/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

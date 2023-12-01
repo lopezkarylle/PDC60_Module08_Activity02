@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainPage.xaml">
+    <Files>
+      <File FileName="UpdatePage.xaml" Line="1" Column="1" />
+      <File FileName="SearchPage.xaml" Line="1" Column="1" />
+      <File FileName="SearchPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="MainPage.xaml" Line="4" Column="33" />
+      <File FileName="MainPage.xaml.cs" Line="14" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PDC06_Module08_Act2" expanded="True">
+            <Node name="PDC06_Module08_Act2" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="SearchPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
